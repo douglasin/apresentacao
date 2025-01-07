@@ -45,11 +45,21 @@ Bem-vindo(a) ao repositório de apresentação! Este é um espaço para que todo
 ## 6. Mensagem final
 - **Compartilhe uma frase ou pensamento que te motiva na sua jornada:**
 
-## Dica
+## Dicas:
 - **Utilize o profile generator para personalizar sua apresentação -> https://profile-readme-generator.com/
 - **Veja como é divertido navegar entre projetos no github!
 - **https://github.com/insper-tecnologias-web/projeto-3-marineford/blob/master/usersData/migrations/0007_userdata_cards.py
 - **https://www.insper.edu.br/pt/noticias/2022/7/as-oportunidades-e-os-desafios-com-as-novas-tecnologias-digitais
----
+---------------------------------------------------------------------------------------------------------------------------
+## Links úteis:
+- ** https://github.com/TheAlgorithms
+
+- **https://github.com/freeCodeCamp/freeCodeCamp
+
+- **https://github.com/firstcontributions/first-contributions
+
+- **https://github.com/public-apis/public-apis
+
+- **https://github.com/wesbos/JavaScript30
 
 Ao compartilhar suas respostas, você estará contribuindo para criar um ambiente mais colaborativo e conectado. Vamos construir juntos! 🚀
