@@ -9,7 +9,6 @@ Meu objetivo é me capacitar como desenvolvedor Full Stack e também desenvolver
 
 A análise de dados, como ferramenta gerencial, já contribuiu muito para o meu trabalho e por isso decidi me aprofundar no universo da programação.
 
-Tenho admiração por empresas como Tesla e SpaceX, dada a capacidade de inovação que possuem.
 
 Nos próximos doze meses pretendo estar assumindo projetos freelancers e, futuramente, estar em condições de desenvolver meus próprios sistemas, principalmente nas áreas da saúde e ensino.
 
