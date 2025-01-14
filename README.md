@@ -62,4 +62,4 @@ Bem-vindo(a) ao repositório de apresentação! Este é um espaço para que todo
 
 - **https://github.com/wesbos/JavaScript30
 
-Ao compartilhar suas respostas, você estará contribuindo para criar um ambiente mais colaborativo e conectado. Vamos construir juntos! 🚀
+Ao compartilhar suas respostas, você estará contribuindo para criar um ambiente mais colaborativo e conectado. Vamos construir juntos! 🚀🚀
