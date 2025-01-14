@@ -18,7 +18,7 @@ Atualmente, minha tecnologia favorita é a **Inteligência Artificial**, especia
 3. Aprender e me aprofundar em diferentes tecnologias antes de decidir qual carreira seguir.
 
 ## Visão
-Ainda estou explorando possibilidades, mas acredito que o conhecimento é o melhor guia para tomar decisões assertivas no futuro.
+Ainda estou explorando possibilidades, mas acredito que o conhecimento é o melhor guia para tomar decisões assertivas no futuro. Tenho Muita vontade de aprender.
 
 ###
 ---
